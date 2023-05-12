@@ -6,4 +6,5 @@ public class Demo {
     private String address;
     private String email;
     private int age;
+    private String avatar;
 }
